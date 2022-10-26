@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Delegues\Delegues\bin\Debug\Delegues.exe.config
+C:\Users\18196\source\repos\Delegues\Delegues\bin\Debug\Delegues.exe
+C:\Users\18196\source\repos\Delegues\Delegues\bin\Debug\Delegues.pdb
+C:\Users\18196\source\repos\Delegues\Delegues\obj\Debug\Delegues.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Delegues\Delegues\obj\Debug\Delegues.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Delegues\Delegues\obj\Debug\Delegues.exe
+C:\Users\18196\source\repos\Delegues\Delegues\obj\Debug\Delegues.pdb
+H:\windows programming\Delegues\Delegues\Delegues\bin\Debug\Delegues.exe.config
+H:\windows programming\Delegues\Delegues\Delegues\bin\Debug\Delegues.exe
+H:\windows programming\Delegues\Delegues\Delegues\bin\Debug\Delegues.pdb
+H:\windows programming\Delegues\Delegues\Delegues\obj\Debug\Delegues.csproj.AssemblyReference.cache
+H:\windows programming\Delegues\Delegues\Delegues\obj\Debug\Delegues.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Delegues\Delegues\Delegues\obj\Debug\Delegues.csproj.CoreCompileInputs.cache
+H:\windows programming\Delegues\Delegues\Delegues\obj\Debug\Delegues.exe
+H:\windows programming\Delegues\Delegues\Delegues\obj\Debug\Delegues.pdb
